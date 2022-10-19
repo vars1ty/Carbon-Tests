@@ -24,6 +24,6 @@ fn Mul(first: i32, second: i32) -> i32 {
 fn Main() -> i32 {
   Print("68 + 1 is: {0}", Add(68, 1));
   Print("70 - 1 is: {0}", Sub(70, 1));
-  Print("(38 * 2) + 1 is: {0}", Mul(34, 2) + 1);
+  Print("(34 * 2) + 1 is: {0}", Mul(34, 2) + 1);
   return 0;
 }
